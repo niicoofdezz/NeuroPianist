@@ -17,7 +17,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![ABB Robot](https://img.shields.io/badge/ABB_Robot-RAPID-FF6F00?style=for-the-badge&logo=robot-framework&logoColor=white)](https://new.abb.com/products/robotics)
-[![EEG](https://img.shields.io/badge/EEG-Unicorn_Hybrid_Black-8A2BE2?style=for-the-badge)](https://www.unicorn-bi.com/)
+[![EEG]([https://img.shields.io/badge/EEG-Unicorn_Hybrid_Black-8A2BE2?style=for-the-badge)](https://www.unicorn-bi.com/](https://www.gtec.at/product-configurator/unicorn-brain-interface/?utm_term=g%20tec%20unicorn&utm_campaign=INT:+TMS-EEG+(Search)&utm_source=adwords&utm_medium=ppc&hsa_acc=6312128686&hsa_cam=23291223340&hsa_grp=194025009736&hsa_ad=798191226446&hsa_src=g&hsa_tgt=kwd-1944189168863&hsa_kw=g%20tec%20unicorn&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23291223340&gbraid=0AAAAACm4FQSBWk6yetfVAl6Fx29j-ro1T&gclid=CjwKCAjw5NvPBhAoEiwA_2egfvjp_2gcdk2taqr5HEcfIGHPVuOK3RGBz8QtbITpoLuj0mcwaESesRoC2xoQAvD_BwE))
 [![BCI](https://img.shields.io/badge/Interface-Brain--Computer-00CED1?style=for-the-badge)](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface)
 [![RobotStudio](https://img.shields.io/badge/Simulation-RobotStudio-FF6F00?style=for-the-badge)](https://new.abb.com/products/robotics/robotstudio)
 
