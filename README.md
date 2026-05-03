@@ -168,8 +168,8 @@ NeuroPianist/
 ├── leerDatos.py             # Backend BCI + lógica de modos + envío TCP al robot
 ├── interfaz_pau.py          # GUI (customtkinter) con los 3 modos
 ├── simulacion_final.rspag   # Escenario RobotStudio (simulación + robot real)
-├── speller_selections.mat   # Generado en tiempo real (selecciones BCI)
-└── VÍDEO FINAL.mp4          # Demo del sistema completo
+└──  speller_selections.mat   # Generado en tiempo real (selecciones BCI)
+
 ```
 
 ---
