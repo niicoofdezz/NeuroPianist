@@ -186,19 +186,6 @@ NeuroPianist/
 
 ---
 
-## 👥 Equipo
-
-| Nombre |
-|--------|
-| Paula Arredondo Escamilla |
-| Ruth Cremades Martínez |
-| Marta Andrada Moñino |
-| Nicolás Fernández Blánquez |
-| Klaudia Martínez Bautista |
-| Raquel Mollá Bañón |
-
----
-
 ## 📚 Contexto Académico
 
 **Asignatura:** Robótica de Servicios  
